@@ -20,4 +20,6 @@ Author: Arulprasath
 
 9. Adding group feature to include 200 users.
 
+10. Adding linked feature to add more than 10 devices
+
 
